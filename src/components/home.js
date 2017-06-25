@@ -11,8 +11,8 @@ export default class Home extends Component {
 				Get them here;</p>
 				<p>
 					&rarr; &nbsp; <a href="https://reacttraining.com/react-router/" target="_blank">React Router 4</a><br/>
-					&rarr; &nbsp; <a href="https://github.com/animatedjs/animated" target="_blank">React Transition Group</a><br/>
-					&rarr; &nbsp; <a href="https://github.com/reactjs/react-transition-group" target="_blank">Animated</a>
+					&rarr; &nbsp; <a href="https://github.com/reactjs/react-transition-group" target="_blank">React Transition Group</a><br/>
+					&rarr; &nbsp; <a href="https://github.com/animatedjs/animated" target="_blank">Animated</a>
 				</p>
 			</div>
 		);
