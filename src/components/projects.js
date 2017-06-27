@@ -3,9 +3,6 @@ import { Link } from "react-router-dom";
 import TransitionGroup from "react-transition-group/TransitionGroup";
 import * as Animated from "animated/lib/targets/react-dom";
 
-import AnimatedWrapper from "./animated_wrapper";
-
-@AnimatedWrapper
 export default class Projects extends Component {
 	constructor(props) {
 		super(props);

@@ -1,7 +1,5 @@
 import React, { Component } from "react";
-import AnimatedWrapper from "./animated_wrapper";
 
-@AnimatedWrapper
 export default class Home extends Component {
 	render() {
 		return (

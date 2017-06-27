@@ -1,8 +1,5 @@
 import React, { Component } from "react";
 
-import AnimatedWrapper from "./animated_wrapper";
-
-@AnimatedWrapper
 export default class Projects extends Component {
 	render() {
 		return (
