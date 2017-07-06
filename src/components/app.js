@@ -36,7 +36,7 @@ export default class App extends Component {
 					render={({ location }) => (
 						<TransitionGroup component="main">
 							<AnimatedSwitch
-								key={location.key}
+								key={location.pathname}
 								location={location}
 							>
 								<Route exact path="/" component={Home} />
